@@ -1,4 +1,4 @@
-package net.remie92.tutorialmod;
+package net.remie.tutorialmod;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
